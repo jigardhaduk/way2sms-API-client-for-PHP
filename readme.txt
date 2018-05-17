@@ -1,4 +1,4 @@
-Title: Way2sms api for Codeigniter
+git push originTitle: Way2sms api for Codeigniter
 Author: Harshit M shingala
 Authoer Site: hmshingala.wordprss.com, harshitsphp.blogspot.com
 Author Eamail: shingalaharshit@gmail.com
